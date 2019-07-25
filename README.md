@@ -1,7 +1,7 @@
 # SimpleCricketApp
 >Cricket Run, Over, Ball, Counter
 
->_Working on this app 3rd March 2017
+> _Working on this app 3rd March 2017
 
 ### Focus on
 * Beginner
