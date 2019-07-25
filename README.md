@@ -9,6 +9,5 @@ Working on this app 3rd March 2017
 * Simple java code pattern
 
 ### Screenshots of this app                                                   		                    
-:------------------------------------------:|
- <img src="Web.jpeg" width="400"> 
+ <img src="Web.png" width="400"> 
 
